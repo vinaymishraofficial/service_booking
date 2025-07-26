@@ -1,0 +1,62 @@
+{
+ "charts": [
+  {
+   "chart_name": "Service Booking Chart",
+   "label": "Service Booking Chart"
+  }
+ ],
+ "content": "[{\"id\":\"bNAHdFGbgR\",\"type\":\"header\",\"data\":{\"text\":\"<span style=\\\"font-size: 18px; letter-spacing: 0.18px;\\\"><b>Wellness Center</b></span>\",\"col\":12}},{\"id\":\"ZQx2e7dRll\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Service Booking Chart\",\"col\":12}},{\"id\":\"oZFOV5kkCI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Create Bookings\",\"col\":3}},{\"id\":\"eRJ2zUxUMF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Service Booking Report\",\"col\":3}}]",
+ "creation": "2025-07-25 13:54:51.468795",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "calendar",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Services Booking",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Service Booking",
+   "link_count": 0,
+   "link_to": "Service Booking",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-07-25 18:31:25.901674",
+ "modified_by": "Administrator",
+ "module": "Service Booking",
+ "name": "Services Booking",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 2.0,
+ "shortcuts": [
+  {
+   "color": "Yellow",
+   "doc_view": "List",
+   "label": "Create Bookings",
+   "link_to": "Service Booking",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Service Booking Report",
+   "link_to": "Service Booking Summary",
+   "report_ref_doctype": "Service Booking",
+   "type": "Report"
+  }
+ ],
+ "title": "Services Booking"
+}

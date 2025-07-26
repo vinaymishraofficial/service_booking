@@ -1,0 +1,9 @@
+include README.md
+recursive-include service_booking *.json
+recursive-include service_booking *.py
+recursive-include service_booking *.txt
+recursive-include service_booking *.html
+recursive-include service_booking *.js
+recursive-include service_booking *.css
+recursive-include service_booking *.svg
+recursive-include service_booking *.png

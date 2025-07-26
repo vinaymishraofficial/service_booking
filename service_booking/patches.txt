@@ -1,0 +1,1 @@
+service_booking.patches.post_migrate.create_service_manager_role
