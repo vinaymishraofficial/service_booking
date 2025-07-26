@@ -16,6 +16,19 @@ app_include_js = ["/assets/service_booking/js/service_booking.js"]
 # Build configuration for JS files
 
 
+# fixtures = [
+#     "Custom DocPerm",
+#     "Email Template",
+#     "Print Format",
+#     "Property Setter",
+#     "Report",
+#     "Role",
+#     "Workflow",
+#     "Workflow State",
+#     "Workflow Action Master",
+#     "Workspace"
+# ]
+
 
 # Includes in <head>
 # ------------------
