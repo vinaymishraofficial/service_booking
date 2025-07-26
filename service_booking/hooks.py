@@ -7,6 +7,20 @@ app_description = "A powerful and intuitive Service Booking Application built fo
 app_email = "vinay.alwar89@gmail.com"
 app_license = "MIT"
 
+# Assets bundling
+# ---------------
+
+app_include_css = "/assets/service_booking/css/service_booking.css"
+app_include_js = "/assets/service_booking/js/service_booking.js"
+
+# Build configuration for JS files
+app_include_js = {
+    "js/service_booking.min.js": [
+        "public/js/service_booking.js"
+    ]
+}
+
+
 # Includes in <head>
 # ------------------
 

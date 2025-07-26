@@ -1,0 +1,5 @@
+{
+  "js/service_booking.min.js": [
+    "public/js/service_booking.js"
+  ]
+}
