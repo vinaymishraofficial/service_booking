@@ -10,15 +10,11 @@ app_license = "MIT"
 # Assets bundling
 # ---------------
 
-app_include_css = "/assets/service_booking/css/service_booking.css"
-app_include_js = "/assets/service_booking/js/service_booking.js"
+app_include_css = ["/assets/service_booking/css/service_booking.css"]
+app_include_js = ["/assets/service_booking/js/service_booking.js"]
 
 # Build configuration for JS files
-app_include_js = {
-    "js/service_booking.min.js": [
-        "public/js/service_booking.js"
-    ]
-}
+
 
 
 # Includes in <head>
